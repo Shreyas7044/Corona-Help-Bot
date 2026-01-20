@@ -33,14 +33,12 @@ Make sure you have:
 
 ## 📦 Installation Steps
 
-1. Clone the repository
-git clone https://github.com/your-username/Corona-Help-Bot.git
-cd Corona-Help-Bot
+1. Clone the repository.
 
-2. Install dependencies
+2. Install dependencies:
 pip install -r requirements.txt
 
-3. Run the chatbot
+3. Run the chatbot:
 python main.py
 
 ---
