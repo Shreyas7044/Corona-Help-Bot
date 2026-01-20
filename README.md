@@ -76,7 +76,7 @@ Key Elements:
 ---
 
 ## 📸 Sample Output
-![Application Screenshot]()
+![Application Screenshot](Corona-Help-Bot/screenshot.png)
 
 ---
 
